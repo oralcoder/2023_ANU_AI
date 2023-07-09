@@ -2,5 +2,4 @@
 
 ## 강의노트
 
-### https://colab.research.google.com/drive/1FQhfaLXWcjqYD7GrCm8F0LT6LIyrkr2t?usp=sharing
-
+### https://www.notion.so/oralcoder/ANU-2023-AI-7e483dea9e9446a588d70ed814396056
